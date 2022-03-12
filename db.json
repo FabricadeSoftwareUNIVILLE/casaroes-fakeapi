@@ -1,0 +1,17 @@
+[
+  {
+    "id":1,
+    "nome":"Museu Nacional do Mar",
+    "imagem":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg"
+  },
+  {
+    "id":2,
+    "nome":"Igreja Matriz da Nossa Senhora da Graça",
+    "imagem":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg"
+  },
+  {
+    "id":3,
+    "nome":"Mercado Público",
+    "imagem":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg"
+  }
+]
