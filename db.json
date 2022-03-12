@@ -3,17 +3,32 @@
     {
       "id":1,
       "nome":"Museu Nacional do Mar",
-      "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/museu_do_mar.jpg"
+      "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/museu_do_mar.jpg",
+      "descricao":"Reúne mais de 80 barcos brasileiros e 200 miniaturas de embarcações de diferentes períodos da história. É uma viagem pela trajetória da navegação e uma homenagem à tradição naval brasileira.",
+      "website":"museunacionaldomar.com.br",
+      "endereco":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
+      "lat":-26.2412889,
+      "lng":-48.6404074
     },
     {
       "id":2,
       "nome":"Igreja Matriz da Nossa Senhora da Graça",
-      "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/igreja_matriz.jpg"
+      "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/igreja_matriz.jpg",
+      "descricao":"Reconhecida pela sua tradição e trajetória de fé, a Igreja Matriz Nossa Senhora da Graça é um dos cartões postais e patrimônio histórico de São Francisco do Sul. A igreja, que é a mais antiga de Santa Catarina e a quinta do país com seus aspectos arquitetônicos conservados, foi construída em 1665, no coração do Centro Histórico da cidade e também é tombada pelo IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional. Na sua visita, além de conhecer a Igreja, aproveite para visitar o Museu Diocesano de Arte Sacra Padre Antônio Nóbrega, que abriga mais de 800 peças em seu rico acervo histórico.",
+      "website":"",
+      "endereco":"Praça Getúlio Vargas, 130 - Centro",
+      "lat":-26.2356198,
+      "lng":-48.607273
     },
     {
       "id":3,
       "nome":"Mercado Público",
-      "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/mercado_publico.jpg"
+      "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/mercado_publico.jpg",
+      "descricao":"Inaugurado em 20 de janeiro de 1900 junto à paisagem da Baía Babitonga, foi o principal centro de comercialização de produtos agrícolas e artesanais de São Francisco do Sul. Hoje é sede de mercearia, peixaria, loja de artesanatos e restaurante, onde em dias especiais, acontecem apresentações folclóricas, como boi de mão e a dança do vilão.",
+      "website":"visitesaofranciscodosul.com.br",
+      "endereco":"Rua Babitonga, 62 - Centro",
+      "lat":-26.2443955,
+      "lng":-48.640386
     }
   ]
 }
