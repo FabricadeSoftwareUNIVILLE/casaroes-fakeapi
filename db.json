@@ -30,5 +30,7 @@
       "lat":-26.2443955,
       "lng":-48.640386
     }
-  ]
+  ],
+  "login_sucesso":{},
+  "login_erro":{"mensagem","Usuário ou senha incorreto."},
 }
