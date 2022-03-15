@@ -32,5 +32,5 @@
     }
   ],
   "login_sucesso":{},
-  "login_erro":{"mensagem","Usuário ou senha incorreto."}
+  "login_erro":{"mensagem":"Usuário ou senha incorreto."}
 }
