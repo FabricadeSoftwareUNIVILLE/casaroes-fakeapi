@@ -1,36 +1,60 @@
 {
-  "casaroes":[
-    {
-      "id":1,
-      "nome":"Museu Nacional do Mar",
-      "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/museu_do_mar.jpg",
-      "descricao":"Reúne mais de 80 barcos brasileiros e 200 miniaturas de embarcações de diferentes períodos da história. É uma viagem pela trajetória da navegação e uma homenagem à tradição naval brasileira.",
-      "website":"museunacionaldomar.com.br",
-      "endereco":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-      "lat":-26.2412889,
-      "lng":-48.6404074
-    },
-    {
-      "id":2,
-      "nome":"Igreja Matriz da Nossa Senhora da Graça",
-      "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/igreja_matriz.jpg",
-      "descricao":"Reconhecida pela sua tradição e trajetória de fé, a Igreja Matriz Nossa Senhora da Graça é um dos cartões postais e patrimônio histórico de São Francisco do Sul. A igreja, que é a mais antiga de Santa Catarina e a quinta do país com seus aspectos arquitetônicos conservados, foi construída em 1665, no coração do Centro Histórico da cidade e também é tombada pelo IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional. Na sua visita, além de conhecer a Igreja, aproveite para visitar o Museu Diocesano de Arte Sacra Padre Antônio Nóbrega, que abriga mais de 800 peças em seu rico acervo histórico.",
-      "website":"",
-      "endereco":"Praça Getúlio Vargas, 130 - Centro",
-      "lat":-26.2356198,
-      "lng":-48.607273
-    },
-    {
-      "id":3,
-      "nome":"Mercado Público",
-      "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/mercado_publico.jpg",
-      "descricao":"Inaugurado em 20 de janeiro de 1900 junto à paisagem da Baía Babitonga, foi o principal centro de comercialização de produtos agrícolas e artesanais de São Francisco do Sul. Hoje é sede de mercearia, peixaria, loja de artesanatos e restaurante, onde em dias especiais, acontecem apresentações folclóricas, como boi de mão e a dança do vilão.",
-      "website":"visitesaofranciscodosul.com.br",
-      "endereco":"Rua Babitonga, 62 - Centro",
-      "lat":-26.2443955,
-      "lng":-48.640386
-    }
-  ],
-  "login_sucesso":{},
-  "login_invalido":{"mensagem":"Usuário ou senha incorreto."}
+   "casaroes":[
+      {
+         "id":1,
+         "nome":"Museu Histórico Municipal Prefeito José Schmidt",
+         "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/01.jpg",
+         "descricao":"O prédio, antigamente conhecido como “Palácio dos Mota”, que hoje abriga o Museu Histórico Municipal Prefeito José Schmidt, foi construído por volta da metade do século XIX.Com o passar do tempo, o prédio já foi utilizado como Câmara de Vereadores e mais tarde adaptado a partir de 1916 para o uso como Cadeia Pública de São Francisco do Sul.",
+         "website":"",
+         "endereco":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
+         "lat":-26.2412889,
+         "lng":-48.6404074
+      },
+      {
+         "id":2,
+         "nome":"Casarão Família Gorrësen",
+         "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/02.jpg",
+         "descricao":"Ao dobrar a Esquina da Rua Comandante Cabo com a rua Marechal Floriano, surgem, duas visões que surpreendem e encantam turistas e moradores. À esquerda, a pequena Praça Mauro Görresen Cardoso, sempre frequentada por pescadores e transeuntes que se deliciam com a sua paisagem e a direita um belo e imponente sobrado amarelo, que ostenta duas fileiras de portas e janelas brancas e uma grade de ferro, que acompanha o avarandado em toda parte superior do prédio.",
+         "website":"",
+         "endereco":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
+         "lat":-26.2412889,
+         "lng":-48.6404074
+      },
+      {
+         "id":3,
+         "nome":"Centro Cultural",
+         "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/3.jpg",
+         "descricao":"O Centro Cultural Éster dos Passos Rosa foi inaugurado em 2018. O local funciona em prédio que outrora pertencia a família Truppel. No local, já funcionaram escritórios comerciais, um diretório e partido político, atelier de costura, um consulado, alojamento da marinha e residências familiares. Nos dias atuais, o centro cultural é um dos aparelhos culturais pertencentes a FUCISF, Fundação Cultural Ilha e São Francisco, que utiliza o local para a realização de eventos culturais como exposições, lançamentos de livro, apresentações artísticas, oficinas e outras atividades afim.",
+         "website":"museunacionaldomar.com.br",
+         "endereco":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
+         "lat":-26.2412889,
+         "lng":-48.6404074
+      },
+      {
+         "id":4,
+         "nome":"Casarão Família Truppel",
+         "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/4.jpg",
+         "descricao":"O Sobrado que outrora conferiu status ao sobrenome Truppel localiza-se na rua Marechal Floriano Peixoto, 245 esquina com o largo Almirante Rego. Em uma fase anterior a construção do sobrado, havia uma casa baixa, construída em pedras, cal de concha e óleo de baleia, propriedade de uma família de sobrenome Fonseca. Já como sobrado (ainda em estilo colonial) entre 1930 a agosto de 1940, o imóvel, servia como residência, possuindo ainda uma sapataria pertencente ao Sr. Alexandre Mattar, quando então o velho sobrado foi adquirido por Bernardo João Truppel.",
+         "website":"",
+         "endereco":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
+         "lat":-26.2412889,
+         "lng":-48.6404074
+      },
+      {
+         "id":5,
+         "nome":"Posto Musse & Irmão",
+         "imagem":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/5.jpg",
+         "descricao":"Nas primeiras décadas do século XX, o centro histórico de São Francisco do Sul passava por um intenso desenvolvimento econômico com a instalação de trapiches, construção de sobrados e revitalização de espaços públicos. Em 1925, Jorge Musse, imigrante de origem síria, pai de Felipe e Gerôncio, comerciante estabelecido, dono do armazém de Secos e Molhados, na época situada na Rua Coronel Oliveira 33 ao lado da linha do trem, que também vendia querosene e gasolina, em recipientes de 18 litros trazidos dos EUA pela Texaco.",
+         "website":"museunacionaldomar.com.br",
+         "endereco":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
+         "lat":-26.2412889,
+         "lng":-48.6404074
+      }
+   ],
+   "login_sucesso":{
+      
+   },
+   "login_invalido":{
+      "mensagem":"Usuário ou senha incorreto."
+   }
 }
