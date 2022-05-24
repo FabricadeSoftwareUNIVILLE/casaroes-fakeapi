@@ -3,137 +3,137 @@
       {
          "id":1,
          "name":"Museu Histórico Municipal Prefeito José Schmidt",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/1.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/1.jpg",
          "description":"O prédio, antigamente conhecido como “Palácio dos Mota”, que hoje abriga o Museu Histórico Municipal Prefeito José Schmidt, foi construído por volta da metade do século XIX.Com o passar do tempo, o prédio já foi utilizado como Câmara de Vereadores e mais tarde adaptado a partir de 1916 para o uso como Cadeia Pública de São Francisco do Sul.",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.640407
+         "latitude":-26.2412889,
+         "longitude":-48.640407
       },
       {
          "id":2,
          "name":"Casarão Família Gorrësen",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/2.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/2.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.6404074
+         "latitude":-26.2412889,
+         "longitude":-48.6404074
       },
       {
          "id":3,
          "name":"Centro Cultural",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/3.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/3.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.6404074
+         "latitude":-26.2412889,
+         "longitude":-48.6404074
       },
       {
          "id":4,
          "name":"Casarão Família Truppel",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/4.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/4.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.6404074
+         "latitude":-26.2412889,
+         "longitude":-48.6404074
       },
       {
          "id":5,
          "name":"Posto Musse & Irmão",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/5.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/5.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.6404074
+         "latitude":-26.2412889,
+         "longitude":-48.6404074
       },
       {
          "id":6,
          "name":"Delegacia da Capitania dos Portos",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/6.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/6.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.6404074
+         "latitude":-26.2412889,
+         "longitude":-48.6404074
       },
       {
          "id":7,
          "name":"PCasarão Assef",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/7.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/7.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.6404074
+         "latitude":-26.2412889,
+         "longitude":-48.6404074
       },
       {
          "id":8,
          "name":"Clube Náutico Cruzeiro do Sul",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/8.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/8.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.6404074
+         "latitude":-26.2412889,
+         "longitude":-48.6404074
       },
       {
          "id":9,
          "name":"Praça da Bandeira",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/9.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/9.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.6404074
+         "latitude":-26.2412889,
+         "longitude":-48.6404074
       },
       {
          "id":10,
          "name":"Casarão Diz Q Tem",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/10.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/10.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.6404074
+         "latitude":-26.2412889,
+         "longitude":-48.6404074
       },
       {
          "id":11,
          "name":"Casarão Família Cabral",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/11.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/11.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.6404074
+         "latitude":-26.2412889,
+         "longitude":-48.6404074
       },
       {
          "id":12,
          "name":"Mercado Público",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/12.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/12.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.6404074
+         "latitude":-26.2412889,
+         "longitude":-48.6404074
       },
       {
          "id":13,
          "name":"Casa do Antônio Mir",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/13.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/13.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.640407
+         "latitude":-26.2412889,
+         "longitude":-48.640407
       },
       {
          "id":14,
          "name":"Casarão Família Carvalho",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/14.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/14.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.6404074
+         "latitude":-26.2412889,
+         "longitude":-48.6404074
       },
       {
          "id":15,
          "name":"Hotel Kontiky",
-         "image_url":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/15.jpg",
+         "imageUrl":"https://raw.githubusercontent.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/main/15.jpg",
          "description":"Uma Descrição do patrimônio histórico",
          "address":"R. Manuel Lourenço de Andrade, 133 – Centro Histórico",
-         "lat":-26.2412889,
-         "lng":-48.6404074
+         "latitude":-26.2412889,
+         "longitude":-48.6404074
       }
    ]
 }
