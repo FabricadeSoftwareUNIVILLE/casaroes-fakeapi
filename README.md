@@ -2,13 +2,13 @@
 
 Lista de casaroes
 
-http://my-json-server.typicode.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/casaroes
+http://my-json-server.typicode.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/buildings
 
 
 Obter um casarão
 
 
-http://my-json-server.typicode.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/casaroes/1
+http://my-json-server.typicode.com/FabricadeSoftwareUNIVILLE/casaroes-fakeapi/buildings/1
 
 
 Login com Sucesso
